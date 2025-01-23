@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RazorPagesCrud/1.0.0": {
+        "runtime": {
+          "RazorPagesCrud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RazorPagesCrud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
